@@ -1,0 +1,6 @@
+#mapContainer {
+  width: 75vw;
+  height: 75vh;
+  margin: 2rem auto;
+  border: 10px solid;
+}
